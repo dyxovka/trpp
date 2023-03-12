@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "116786727333",
+    "project_id": "apptrpp",
+    "storage_bucket": "apptrpp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116786727333:android:04c99647ddb90b7d13004c",
+        "android_client_info": {
+          "package_name": "com.example.insense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116786727333-i4s0191idj7do6nsacjmvfe6oaju116u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insense",
+            "certificate_hash": "928d5a835c957740535f9c8da6ef81770f301331"
+          }
+        },
+        {
+          "client_id": "116786727333-e63dt6oc7v0eku8d4lsqspmuar2t0r9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4g1PxFuTuaH1iFCYkqKH09AoIy55iy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116786727333-e63dt6oc7v0eku8d4lsqspmuar2t0r9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

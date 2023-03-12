@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                              
+                                                       
+                                                  
+                                
+                                  
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+
+         android:tag="layout/fragment_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:background="#0F0635" tools:context=".MainFragment">
+
+        <ImageButton
+            android:id="@+id/button_profile"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="10dp"
+            android:backgroundTint="#29E1CD"
+            android:scaleType="centerCrop"
+            android:src="@drawable/button_profile"
+            android:textColor="#0B1637"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="SpeakableTextPresentCheck"
+            android:contentDescription="TODO" />
+
+        <ImageButton
+            android:id="@+id/button_main_main"
+
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#29E1CD"
+            android:scaleType="centerCrop"
+            android:src="@drawable/button_home"
+            android:textColor="#0B1637"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/button_main_profile"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#29E1CD"
+            android:scaleType="centerCrop"
+            android:src="@drawable/button_profile"
+            android:textColor="#0B1637"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/button_main_main"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/button_main_calendar"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#29E1CD"
+            android:scaleType="centerCrop"
+            android:src="@drawable/button_calendar"
+            android:textColor="#0B1637"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/button_main_categories"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/button_main_categories"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:backgroundTint="#29E1CD"
+            android:scaleType="centerCrop"
+            android:src="@drawable/button_action"
+            android:textColor="#0B1637"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/button_about_action"
+            android:layout_width="250dp"
+            android:layout_height="49dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="130dp"
+            android:backgroundTint="#29E1CD"
+            android:text="About action"
+            android:textColor="#0B1637"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="238dp"
+            android:layout_height="216dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="230dp"
+            android:layout_marginEnd="80dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_about_action" />
+
+        <TextView
+            android:id="@+id/textView_from_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

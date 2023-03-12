@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_import.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_export.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_occupation.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_occupation.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_binding.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_binding.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_categories.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_starter.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_starter.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_rate_of_occupation.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_rate_of_occupation.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_activity.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    }
+]

@@ -1,0 +1,88 @@
+com/example/insense/ui/fragments/Import/ImportFragment.java
+ com.example.insense.ui.fragments.Import.ImportFragment
+com/example/insense/databinding/FragmentCategoriesBinding.java
+ com.example.insense.databinding.FragmentCategoriesBinding
+com/example/insense/services/authentification/FirebaseUserLiveData.java
+ com.example.insense.services.authentification.FirebaseUserLiveData
+com/example/insense/BuildConfig.java
+ com.example.insense.BuildConfig
+com/example/insense/databinding/FragmentMainBinding.java
+ com.example.insense.databinding.FragmentMainBinding
+com/example/insense/ui/fragments/Occupation/OccupationFragment.java
+ com.example.insense.ui.fragments.Occupation.OccupationFragment
+com/example/insense/databinding/FragmentOccupationBinding.java
+ com.example.insense.databinding.FragmentOccupationBinding
+com/example/insense/databinding/FragmentStarterBinding.java
+ com.example.insense.databinding.FragmentStarterBinding
+com/example/insense/databinding/FragmentCategoryBinding.java
+ com.example.insense.databinding.FragmentCategoryBinding
+com/example/insense/databinding/FragmentRateOfOccupationBinding.java
+ com.example.insense.databinding.FragmentRateOfOccupationBinding
+com/example/insense/databinding/ActivityMainBinding.java
+ com.example.insense.databinding.ActivityMainBinding
+com/example/insense/ui/fragments/Login/LoginViewModel.java
+ com.example.insense.ui.fragments.Login.LoginViewModel
+ com.example.insense.ui.fragments.Login.LoginViewModel$AuthenticationState
+ com.example.insense.ui.fragments.Login.LoginViewModel2$$special$$inlined$map$1
+com/example/insense/databinding/FragmentLoginBinding.java
+ com.example.insense.databinding.FragmentLoginBinding
+com/example/insense/databinding/FragmentProfileBinding.java
+ com.example.insense.databinding.FragmentProfileBinding
+com/example/insense/ui/fragments/Binding/BindingFragment.java
+ com.example.insense.ui.fragments.Binding.BindingFragment
+com/example/insense/ui/fragments/Activity/ActivityFragment.java
+ com.example.insense.ui.fragments.Activity.ActivityFragment
+ com.example.insense.ui.fragments.Activity.DrawThread
+com/example/insense/ui/fragments/Export/ExportFragment.java
+ com.example.insense.ui.fragments.Export.ExportFragment
+com/example/insense/databinding/FragmentSettingsBinding.java
+ com.example.insense.databinding.FragmentSettingsBinding
+com/example/insense/ui/fragments/Login/StarterFragment.java
+ com.example.insense.ui.fragments.Login.StarterFragment
+com/example/insense/DataBindingTriggerClass.java
+ com.example.insense.DataBindingTriggerClass
+com/example/insense/databinding/FragmentExportBinding.java
+ com.example.insense.databinding.FragmentExportBinding
+com/example/insense/ui/fragments/RateOfOccupation/RateOfOccupationFragment.java
+ com.example.insense.ui.fragments.RateOfOccupation.RateOfOccupationFragment
+com/example/insense/ui/fragments/Login/LoginFragment.java
+ com.example.insense.ui.fragments.Login.LoginFragment
+com/example/insense/repository/SampleRepository.java
+ com.example.insense.repository.SampleRepository
+com/example/insense/ui/fragments/Profile/ProfileFragment.java
+ com.example.insense.ui.fragments.Profile.ProfileFragment
+ com.example.insense.ui.fragments.Profile.ProfileFragment$1
+ com.example.insense.ui.fragments.Profile.ProfileFragment$2
+ com.example.insense.ui.fragments.Profile.ProfileFragment$3
+ com.example.insense.ui.fragments.Profile.ProfileFragment$4
+com/example/insense/ui/fragments/Calendar/CalendarFragment.java
+ com.example.insense.ui.fragments.Calendar.CalendarFragment
+ com.example.insense.ui.fragments.Calendar.CalendarFragment$1
+ com.example.insense.ui.fragments.Calendar.CalendarFragment$2
+ com.example.insense.ui.fragments.Calendar.CalendarFragment$3
+com/example/insense/ui/main_activity/MainActivity.java
+ com.example.insense.ui.main_activity.MainActivity
+com/example/insense/databinding/FragmentImportBinding.java
+ com.example.insense.databinding.FragmentImportBinding
+com/example/insense/databinding/FragmentBindingBinding.java
+ com.example.insense.databinding.FragmentBindingBinding
+com/example/insense/ui/Settings/SettingsFragment.java
+ com.example.insense.ui.Settings.SettingsFragment
+ com.example.insense.ui.Settings.SettingsFragment$1
+com/example/insense/ui/fragments/Category/CategoryFragment.java
+ com.example.insense.ui.fragments.Category.CategoryFragment
+com/example/insense/ui/fragments/Categories/CategoriesFragment.java
+ com.example.insense.ui.fragments.Categories.CategoriesFragment
+ com.example.insense.ui.fragments.Categories.CategoriesFragment$1
+ com.example.insense.ui.fragments.Categories.CategoriesFragment$2
+ com.example.insense.ui.fragments.Categories.CategoriesFragment$3
+com/example/insense/databinding/FragmentCalendarBinding.java
+ com.example.insense.databinding.FragmentCalendarBinding
+com/example/insense/ui/fragments/Main/MainFragment.java
+ com.example.insense.ui.fragments.Main.MainFragment
+ com.example.insense.ui.fragments.Main.MainFragment$1
+ com.example.insense.ui.fragments.Main.MainFragment$2
+ com.example.insense.ui.fragments.Main.MainFragment$3
+ com.example.insense.ui.fragments.Main.MainFragment$4
+com/example/insense/databinding/FragmentActivityBinding.java
+ com.example.insense.databinding.FragmentActivityBinding

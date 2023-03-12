@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">340404397573-na7vcm675olkosqmdcenehpv6f1vjdo3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">340404397573</string>
+    <string name="google_api_key" translatable="false">AIzaSyBu1AHj_vDA-iXDJJxOQ8OvCx4n78d6tYw</string>
+    <string name="google_app_id" translatable="false">1:340404397573:android:56459cf0ec3d29286ede6c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBu1AHj_vDA-iXDJJxOQ8OvCx4n78d6tYw</string>
+    <string name="google_storage_bucket" translatable="false">insense-bf353.appspot.com</string>
+    <string name="project_id" translatable="false">insense-bf353</string>
+</resources>

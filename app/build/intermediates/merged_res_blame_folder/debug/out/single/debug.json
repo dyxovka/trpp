@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_action.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_action.png"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_import.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_calendar.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_rate_of_occupation.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_rate_of_occupation.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_home.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_home.png"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_occupation.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_occupation.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_export.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_back.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_back.png"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_starter.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_starter.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_activity.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_binding.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_binding.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_profile.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\varia\\trpp-1\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_settings.png.flat",
+        "source": "C:\\Users\\varia\\trpp-1\\app\\src\\main\\res\\drawable\\button_settings.png"
+    }
+]
